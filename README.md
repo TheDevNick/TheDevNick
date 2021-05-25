@@ -6,7 +6,7 @@
 </p>
 
 ###
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thedevnick1&theme=dark)](https://git.io/streak-stats)
+https://github-readme-stats.vercel.app/api?username=thedevnick&theme=dark&show_icons=true
 
 <!--
 **TheDevNick/TheDevNick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
