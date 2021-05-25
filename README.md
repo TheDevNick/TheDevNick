@@ -6,7 +6,8 @@
 </p>
 
 ###
-<img alt="Jha-Vineet69's Github Stats" src="https://github-readme-stats.TheDevNick.vercel.app/api?username=TheDevNick&hide=stars&show_icons=true&hide_border=true&theme=buefy" width="500"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thedevnick1&theme=dark)](https://git.io/streak-stats)
+
 <!--
 **TheDevNick/TheDevNick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
