@@ -5,7 +5,8 @@
 <a href="https://www.linkedin.com/in/stephenajulu/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-
+###
+<img alt="Jha-Vineet69's Github Stats" src="https://github-readme-stats.TheDevNick.vercel.app/api?username=TheDevNick&hide=stars&show_icons=true&hide_border=true&theme=buefy" width="500"/>
 <!--
 **TheDevNick/TheDevNick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
