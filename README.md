@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/nicholas-hollins/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-<h2 align="center">Hello there! My name is Nick Hollins. 👋🤓</h2>
+<h2 align="center">What's Up! My name is Nick Hollins. 👋🤓</h2>
 <p align="center">I'm a Full Stack Web Developer based in Dallas, TX.
 I'm also currently doing my BS in Software Development while working on my company and other projects.
 I'm currently passionate about MERN stack, Progressive Web Apps, and Single Page Applications.
