@@ -22,8 +22,9 @@ When I'm not developing and building things, you can find me on Youtube learning
   
 ### 🏆 Github Stats:
   
- <div> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheDevNick&theme=dark)](https://git.io/streak-stats)
-  <img alt="Jha-Vineet69's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDevNick&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="500"/></div>
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheDevNick&theme=dark)](https://git.io/streak-stats)
+  
+  <img alt="Jha-Vineet69's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDevNick&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="500"/>
 <!--
 **TheDevNick/TheDevNick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
