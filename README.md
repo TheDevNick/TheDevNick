@@ -8,7 +8,7 @@
 <h2 align="center">Hello there! My name is Nick Hollins. 👋🤓</h2>
 <p align="center">I'm a Full Stack Web Developer based in Dallas, TX.
 I'm also currently doing my BS in Software Development while working on my company and other projects.
-I currently passionate about MERN stack, Progressive Web Apps, and Single Page Applications.
+I'm currently passionate about MERN stack, Progressive Web Apps, and Single Page Applications.
 When I'm not developing and building things, you can find me on Youtube learning, writing an article, watching sports, or playing Call of Duty/NBA2k 😎.</p>
 
 <em><p align="center"><a href="#">My Personal Website and Portfolio Built with JS, CSS, HTML, Bootstrap, and SaaS.</a></p></em>
