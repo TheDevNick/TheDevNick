@@ -14,7 +14,7 @@ When I'm not developing and building things, you can find me on Youtube learning
 <em><p align="center"><a href="#">My Personal Website and Portfolio Built with JS, CSS, HTML, Bootstrap, and SaaS.</a></p></em>
 <p>
 
-### 💼 Where am currently working at/as
+### 💼 Currently working at/as
 - [Annies Catalog: Web-Tech/Email Developer](https://www.anniescatalog.com) 💼 
 <!--- [Open World: Freelance](https://stephenajulu.com) -->
   ### 📖 What am currently learning
