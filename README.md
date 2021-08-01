@@ -15,7 +15,7 @@ When I'm not developing and building things, you can find me on Youtube learning
 <p>
 
 ### 💼 Currently working at/as
-- [Annies Catalog: Web-Tech/Email Developer](https://www.anniescatalog.com) 💼 
+- [Workforce Opportunity Services: Software Developer Consultant](https://www.wforce.org/) 💼 
 <!--- [Open World: Freelance](https://stephenajulu.com) -->
   ### 📖 What am currently learning
   - Full Stack Web Development
