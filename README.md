@@ -1,19 +1,19 @@
 <h1 align="center">What's up 👋, I'm Nick Hollins</h1>
 <h3 align="center">Software Engineer @ AAA Texas</h3>
 
-- 🔭 I’m currently working on [Claims Portal App Upgrading to Cloud](Internal Project)
+- 🔭 I’m currently working on: [Claims Portal App Upgrading to Cloud](Internal Project)
 
-- 🌱 I’m currently learning **NodeJS, MongoDB**
+- 🌱 I’m currently learning: **backend JavaScript: NodeJS, MongoDB, ExpressJS**
 
 - 👯 I’m looking to collaborate on **Anything!**
 
-- 👨‍💻 All of my projects are available at [www.HollinsDigital.com](www.HollinsDigital.com)
+- 👨‍💻 My Personal website can be found at: [www.HollinsDigital.com](www.HollinsDigital.com)
 
-- 📝 I regularly write articles on [https://nickahollins.medium.com/](https://nickahollins.medium.com/)
+- 📝 I write articles about cool stuff sometimes: [https://nickahollins.medium.com/](https://nickahollins.medium.com/)
 
-- 📫 How to reach me **HollinsAquile@gmail.com**
+- 📫 How to reach me: **HollinsAquile@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Gdg60OqTrsgOEPWZ-wzOQugAvHPc7IO4/view?usp=sharing](https://drive.google.com/file/d/1Gdg60OqTrsgOEPWZ-wzOQugAvHPc7IO4/view?usp=sharing)
+- 📄 View My Resume Here: [https://drive.google.com/file/d/1Gdg60OqTrsgOEPWZ-wzOQugAvHPc7IO4/view?usp=sharing](https://drive.google.com/file/d/1Gdg60OqTrsgOEPWZ-wzOQugAvHPc7IO4/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
