@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: **backend JavaScript: NodeJS, MongoDB, ExpressJS**
 
-- 👯 I’m looking to collaborate on **Anything!**
+- 👯 I’m looking to collaborate on **Anything dealing with Full Stack Engineering!**
 
 - 👨‍💻 My Personal website can be found at: [www.HollinsDigital.com](www.HollinsDigital.com)
 
