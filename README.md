@@ -7,7 +7,7 @@
 
 <h1 align="center">Projects</h1>
 <div>
-<img src="https://github.com/TheDevNick/images/blob/main/PokemonAPI.gif">
+<img src="https://media.giphy.com/media/XLqZiA6ywEmuSFikui/giphy.gif">
   <p> Pokemon API </p>
 </div>
 
