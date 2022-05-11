@@ -7,11 +7,10 @@
 
 <h1 align="center">Recent Projects</h1>
 
-| Pick A Poke!        | FoodFind!          | Cool  |
+| Pick A Poke!        | FoodFind!          | BookTracker  |
 | ------------- |:-------------:| -----:|
-| <img src="https://media.giphy.com/media/XLqZiA6ywEmuSFikui/giphy.gif">     | <img src="https://media.giphy.com/media/XLqZiA6ywEmuSFikui/giphy.gif">  | $1600 |
-| button here      | button here      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| <img src="https://media.giphy.com/media/XLqZiA6ywEmuSFikui/giphy.gif">     | <img src="https://media.giphy.com/media/XLqZiA6ywEmuSFikui/giphy.gif">  | <img src="https://media.giphy.com/media/XLqZiA6ywEmuSFikui/giphy.gif">  |
+| button here      | button here      |   Button Here |
 <div>
 <img src="https://media.giphy.com/media/XLqZiA6ywEmuSFikui/giphy.gif">
   <p> Pokemon API </p>
