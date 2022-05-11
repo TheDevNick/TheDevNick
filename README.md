@@ -11,6 +11,7 @@
 | ------------- |:-------------:| -----:|
 | <img src="https://media.giphy.com/media/XLqZiA6ywEmuSFikui/giphy.gif">     | <img src="https://media.giphy.com/media/XLqZiA6ywEmuSFikui/giphy.gif">  | <img src="https://media.giphy.com/media/XLqZiA6ywEmuSFikui/giphy.gif">  |
 | button here      | button here      |   Button Here |
+|   Project Integrating the PokeAPI to find pokemon                |  Project Integrating the PokeAPI to find pokemon                |   Project Integrating the PokeAPI to find pokemon           |
 <div>
 <img src="https://media.giphy.com/media/XLqZiA6ywEmuSFikui/giphy.gif">
   <p> Pokemon API </p>
