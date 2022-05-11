@@ -9,11 +9,15 @@
 <div>
 <img src="https://github.com/TheDevNick/images/blob/main/PokemonAPI.gif">
   <p> Pokemon API </p>
-  
-  <img src="https://github.com/TheDevNick/images/blob/main/PokemonAPI.gif">
+</div>
+
+<div>
+<img src="https://github.com/TheDevNick/images/blob/main/PokemonAPI.gif">
   <p> Pokemon API </p>
-  
-  <img src="https://github.com/TheDevNick/images/blob/main/PokemonAPI.gif">
+</div>
+
+<div>
+<img src="https://github.com/TheDevNick/images/blob/main/PokemonAPI.gif">
   <p> Pokemon API </p>
 </div>
 
