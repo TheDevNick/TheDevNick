@@ -10,7 +10,7 @@
 | Pick A Poke!        | FoodFind!          | BookTracker  |
 | ------------- |:-------------:| -----:|
 | <img src="https://media.giphy.com/media/XLqZiA6ywEmuSFikui/giphy.gif">     | <img src="https://media.giphy.com/media/XLqZiA6ywEmuSFikui/giphy.gif">  | <img src="https://media.giphy.com/media/XLqZiA6ywEmuSFikui/giphy.gif">  |
-| <button>[View Repo](https://github.com/TheDevNick/PokemonAPI)</butotn>| <button>[View Repo](https://github.com/TheDevNick/PokemonAPI)</butotn>      |<button>[View Repo](https://github.com/TheDevNick/PokemonAPI)</butotn> |
+| <button class="button">[View Repo](https://github.com/TheDevNick/PokemonAPI)</butotn>| <button>[View Repo](https://github.com/TheDevNick/PokemonAPI)</butotn>      |<button>[View Repo](https://github.com/TheDevNick/PokemonAPI)</butotn> |
 |   Project Integrating the PokeAPI to find pokemon                |  Project Integrating the PokeAPI to find pokemon                |   Project Integrating the PokeAPI to find pokemon           |
 
 
