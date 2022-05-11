@@ -9,6 +9,12 @@
 <div>
 <img src="https://github.com/TheDevNick/images/blob/main/PokemonAPI.gif">
   <p> Pokemon API </p>
+  
+  <img src="https://github.com/TheDevNick/images/blob/main/PokemonAPI.gif">
+  <p> Pokemon API </p>
+  
+  <img src="https://github.com/TheDevNick/images/blob/main/PokemonAPI.gif">
+  <p> Pokemon API </p>
 </div>
 
 - 🔭 I’m currently working on: [Claims Portal App Upgrading to Cloud](Internal Project)
