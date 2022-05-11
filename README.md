@@ -6,6 +6,12 @@
 <h3 align="center">Software Engineer @ AAA Texas</h3>
 
 <h1 align="center">Projects</h1>
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 <div>
 <img src="https://media.giphy.com/media/XLqZiA6ywEmuSFikui/giphy.gif">
   <p> Pokemon API </p>
