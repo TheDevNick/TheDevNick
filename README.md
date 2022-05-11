@@ -10,22 +10,9 @@
 | Pick A Poke!        | FoodFind!          | BookTracker  |
 | ------------- |:-------------:| -----:|
 | <img src="https://media.giphy.com/media/XLqZiA6ywEmuSFikui/giphy.gif">     | <img src="https://media.giphy.com/media/XLqZiA6ywEmuSFikui/giphy.gif">  | <img src="https://media.giphy.com/media/XLqZiA6ywEmuSFikui/giphy.gif">  |
-| button here      | button here      |   Button Here |
+| [View Repo](https://github.com/TheDevNick/PokemonAPI)      | [View Repo](https://github.com/TheDevNick/PokemonAPI)      |   [View Repo](https://github.com/TheDevNick/PokemonAPI) |
 |   Project Integrating the PokeAPI to find pokemon                |  Project Integrating the PokeAPI to find pokemon                |   Project Integrating the PokeAPI to find pokemon           |
-<div>
-<img src="https://media.giphy.com/media/XLqZiA6ywEmuSFikui/giphy.gif">
-  <p> Pokemon API </p>
-</div>
 
-<div>
-<img src="https://github.com/TheDevNick/images/blob/main/PokemonAPI.gif">
-  <p> Pokemon API </p>
-</div>
-
-<div>
-<img src="https://github.com/TheDevNick/images/blob/main/PokemonAPI.gif">
-  <p> Pokemon API </p>
-</div>
 
 - 🔭 I’m currently working on: [Claims Portal App Upgrading to Cloud](Internal Project)
 
