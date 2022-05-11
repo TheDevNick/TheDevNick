@@ -7,10 +7,10 @@
 
 <h1 align="center">Recent Projects</h1>
 
-| Pick A Poke!        | Are           | Cool  |
+| Pick A Poke!        | FoodFind!          | Cool  |
 | ------------- |:-------------:| -----:|
-| <img src="https://media.giphy.com/media/XLqZiA6ywEmuSFikui/giphy.gif">     | right-aligned | $1600 |
-| button here      | centered      |   $12 |
+| <img src="https://media.giphy.com/media/XLqZiA6ywEmuSFikui/giphy.gif">     | <img src="https://media.giphy.com/media/XLqZiA6ywEmuSFikui/giphy.gif">  | $1600 |
+| button here      | button here      |   $12 |
 | zebra stripes | are neat      |    $1 |
 <div>
 <img src="https://media.giphy.com/media/XLqZiA6ywEmuSFikui/giphy.gif">
