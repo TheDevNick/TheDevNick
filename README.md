@@ -5,6 +5,9 @@
 <h1 align="center">What's up 👋, I'm Nick Hollins</h1>
 <h3 align="center">Software Engineer @ AAA Texas</h3>
 
+<h1 align="center">Projects</h1>
+![Untitled design](https://user-images.githubusercontent.com/54868091/167750759-25c88f8d-4132-4d1b-b2bd-58cca698909d.gif)
+
 - 🔭 I’m currently working on: [Claims Portal App Upgrading to Cloud](Internal Project)
 
 - 🌱 I’m currently learning: **backend JavaScript: NodeJS, MongoDB, ExpressJS**
