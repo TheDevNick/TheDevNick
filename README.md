@@ -5,12 +5,12 @@
 <h1 align="center">What's up 👋, I'm Nick Hollins</h1>
 <h3 align="center">Software Engineer @ AAA Texas</h3>
 
-<h1 align="center">Projects</h1>
+<h1 align="center">Recent Projects</h1>
 
-| Tables        | Are           | Cool  |
+| Pick A Poke!        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
+| <img src="https://media.giphy.com/media/XLqZiA6ywEmuSFikui/giphy.gif">     | right-aligned | $1600 |
+| button here      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 <div>
 <img src="https://media.giphy.com/media/XLqZiA6ywEmuSFikui/giphy.gif">
