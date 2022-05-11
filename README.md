@@ -6,7 +6,7 @@
 <h3 align="center">Software Engineer @ AAA Texas</h3>
 
 <h1 align="center">Projects</h1>
-<img src="https://github.com/TheDevNick/images/blob/main/pokeAPI.gif250x250">
+<img src="https://github.com/TheDevNick/images/blob/main/PokemonAPI.gif">
 
 - 🔭 I’m currently working on: [Claims Portal App Upgrading to Cloud](Internal Project)
 
