@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/TheDevNick/images/blob/main/OfficialHeader.png">
+</p>
+
 <h1 align="center">What's up 👋, I'm Nick Hollins</h1>
 <h3 align="center">Software Engineer @ AAA Texas</h3>
 
