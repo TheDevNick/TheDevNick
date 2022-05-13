@@ -13,11 +13,11 @@
 
 <h1 align="center">Recent Projects</h1>
 
-| Pick A Poke!        | HollinsDigital.com          | BookTracker  |
+| Pick A Poke!        | HollinsDigital.com          | Ree-mote  |
 | ------------- |:-------------:| -----:|
-| <img src="https://media.giphy.com/media/XLqZiA6ywEmuSFikui/giphy.gif">     | <img src="https://media.giphy.com/media/OSjgb4hsN0VrUc9gLN/giphy.gif">  | <img src="https://media.giphy.com/media/XLqZiA6ywEmuSFikui/giphy.gif">  |
+| <img src="https://media.giphy.com/media/XLqZiA6ywEmuSFikui/giphy.gif">     | <img src="https://media.giphy.com/media/OSjgb4hsN0VrUc9gLN/giphy.gif">  | <img src="https://media.giphy.com/media/Sf0foNpW8RbamYXETQ/giphy.gif">  |
 | [View Repo](https://github.com/TheDevNick/PokemonAPI)| [View Repo](https://github.com/TheDevNick/HollinsDigital)|[View Repo](https://github.com/TheDevNick/PokemonAPI) |
-|   Project Integrating the PokeAPI to find pokemon.  |  Personal portfolio that includes all of my experience. |   Project Integrating the PokeAPI to find pokemon |
+|   Project Integrating the PokeAPI to find pokemon.  |  Personal portfolio that includes all of my experience. |   Landing Page prototype for potential client |
 
 
 - 🔭 I’m currently working on: [Claims Portal App Upgrading to Cloud](Internal Project)
