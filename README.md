@@ -32,7 +32,7 @@
 
 - 📫 How to reach me: **HollinsAquile@gmail.com**
 
-- 📄 View My Resume Here: [[[https://drive.google.com/file/d/1Gdg60OqTrsgOEPWZ-wzOQugAvHPc7IO4/view?usp=sharing](https://drive.google.com/file/d/1Gdg60OqTrsgOEPWZ-wzOQugAvHPc7IO4/view?usp=sharing)](https://drive.google.com/file/d/1swoVqpvn-1fEoqToxBIJIERZXfyD-M4m/view?usp=sharing)](https://drive.google.com/file/d/1swoVqpvn-1fEoqToxBIJIERZXfyD-M4m/view?usp=sharing)
+- 📄 View My Resume Here: [https://drive.google.com/file/d/1swoVqpvn-1fEoqToxBIJIERZXfyD-M4m/view?usp=sharing]
 
 
 <h3 align="left">Languages and Tools:</h3>
