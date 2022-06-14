@@ -28,7 +28,7 @@
 
 - 👨‍💻 My Personal website can be found at: [www.HollinsDigital.com](www.HollinsDigital.com)
 
-- 📝 I write articles about cool stuff sometimes: [https://nickahollins.medium.com/](https://nickahollins.medium.com/)
+- 📝 I write articles about cool stuff sometimes: https://www.hollinsdigital.com/
 
 - 📫 How to reach me: **HollinsAquile@gmail.com**
 
