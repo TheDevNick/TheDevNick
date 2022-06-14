@@ -26,9 +26,9 @@
 
 - 👯 I’m looking to collaborate on **Anything dealing with Full Stack Engineering!**
 
-- 👨‍💻 My Personal website can be found at: [www.HollinsDigital.com](www.HollinsDigital.com)
+- 👨‍💻 My Personal website can be found at: https://www.hollinsdigital.com/
 
-- 📝 I write articles about cool stuff sometimes: https://www.hollinsdigital.com/
+- 📝 I write articles about cool stuff sometimes: https://nickahollins.medium.com/
 
 - 📫 How to reach me: **HollinsAquile@gmail.com**
 
