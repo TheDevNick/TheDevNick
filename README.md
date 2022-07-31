@@ -16,7 +16,7 @@
 | Bill-Track        | HollinsDigital.com          | Ree-mote  |
 | ------------- |:-------------:| -----:|
 | <img src="https://media.giphy.com/media/9uA2pwLy4P6OsGex0J/giphy.gif">     | <img src="https://media.giphy.com/media/OSjgb4hsN0VrUc9gLN/giphy.gif">  | <img src="https://media.giphy.com/media/Sf0foNpW8RbamYXETQ/giphy.gif">  |
-| [View Repo](https://github.com/TheDevNick/BillTrack)| [View Repo](https://github.com/TheDevNick/HollinsDigital)|[View Repo](https://github.com/TheDevNick/ree-mote) |
+| [View Repo](https://github.com/TheDevNick/bill-track-mvp)| [View Repo](https://github.com/TheDevNick/HollinsDigital)|[View Repo](https://github.com/TheDevNick/ree-mote) |
 |   Full Stack client project to track monthly bills using NodeJS, Express, NoSQL,EJS   |  Personal portfolio that includes all of my experience. |   Landing Page prototype for potential client |
 
 
