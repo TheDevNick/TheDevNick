@@ -16,7 +16,7 @@
 | Bill-Track        | HollinsDigital.com          | LearnSpace  |
 | ------------- |:-------------:| -----:|
 | <img src="https://media.giphy.com/media/9uA2pwLy4P6OsGex0J/giphy.gif">     | <img src="https://media.giphy.com/media/OSjgb4hsN0VrUc9gLN/giphy.gif">  | <img src="https://media.giphy.com/media/cypaWvWUKy8PW5aZLx/giphy.gif">  |
-| [View Repo](https://github.com/TheDevNick/bill-track-mvp)| [View Repo](https://github.com/TheDevNick/learn-space) |
+| [View Repo](https://github.com/TheDevNick/bill-track-mvp)| [View Repo] (https://github.com/TheDevNick/HollinsDigital) | [View Repo](https://github.com/TheDevNick/learn-space)
 |   Full Stack client project to track monthly bills using NodeJS, Express, NoSQL,EJS   |  Personal portfolio that includes all of my experience. |   Full Stack EdTech web application NodeJS, Express, NoSQL,EJS  |
 
 
