@@ -8,8 +8,8 @@
 </p>
 
 <h1 align="center">What's up 👋, I'm Nick Hollins</h1>
-<p>Currently working as a Software Enginner @ AAA Texas. I am passionate about solving complex problems with simple and effecient solutions. I am also a advocate for adding diversity in tech.</p>
-<h3 align="center">Software Engineer @ AAA Texas</h3>
+<p>Currently working as a Software Enginner @ Rivial Data Security. I am passionate about solving complex problems with simple and effecient solutions. I am also a advocate for adding diversity in tech.</p>
+<h3 align="center">Software Engineer @ Rivial Data Security</h3>
 
 <h1 align="center">Recent Projects</h1>
 
